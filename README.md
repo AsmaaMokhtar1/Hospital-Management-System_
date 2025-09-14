@@ -1,22 +1,27 @@
 # Hospital Management System
-# Hospital Management System
 
-This is a console-based Hospital Management System written in C++ that allows managing patients, doctors, and appointments efficiently using Object-Oriented Programming (OOP) principles.
+📌 **Overview**  
+The Hospital Management System is a C++ console-based application that allows users to manage patients, doctors, and appointments efficiently. It uses Object-Oriented Programming (OOP) principles and standard data structures for organized and fast data handling.
 
-## Features
-- **Patient Management:** Add, view, and update patient details.
-- **Doctor Management:** Add, view, and update doctor information.
-- **Appointment Scheduling:** Schedule and track appointments between patients and doctors.
-- **Data Handling:** Efficient use of data structures like vectors and hash tables for fast access and organized storage.
-- **Object-Oriented Design:** Uses encapsulation, inheritance, and polymorphism for maintainable and extensible code.
+✨ **Features**  
+📋 **Patient Management** – Add, view, and update patient details.  
+🩺 **Doctor Management** – Add, view, and update doctor information.  
+📅 **Appointment Scheduling** – Schedule and track appointments between patients and doctors.  
+🗃 **Data Handling** – Uses vectors and hash tables for efficient data access and storage.  
+✅ **Error Handling** – Prevents invalid input entries and ensures data consistency.  
 
-## Technical Highlights
-- C++ programming language
-- OOP principles
-- Data structures: std::vector, hash tables
-- Console-based interactive menu
+🛠 **Installation / Usage**  
+Prerequisites:  
+- C++ compiler (Visual Studio, GCC, etc.)
 
-## Future Improvements
-- Add user authentication for doctors and patients.
-- Implement a GUI interface using Qt or Tkinter (if using Python in the future).
-- Include more advanced data structures for optimized performance with large datasets.
+3. Build and run the project.  
+
+⚙️ **Technologies Used**  
+- C++ – Core programming language.  
+- OOP – Encapsulation, inheritance, polymorphism.  
+- Data Structures – Vectors, hash tables for efficient data storage.  
+
+📝 **License**  
+This project is open-source and available for learning and improvement.  
+
+
